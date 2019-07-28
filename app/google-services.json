@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "75561069182",
+    "firebase_url": "https://eat-it-2e117.firebaseio.com",
+    "project_id": "eat-it-2e117",
+    "storage_bucket": "eat-it-2e117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75561069182:android:3aaa50f743980b3d",
+        "android_client_info": {
+          "package_name": "com.example.asus.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75561069182-navvs4hjb4q41do1vdic4oqllld5vauh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.eatit",
+            "certificate_hash": "4c7b3d4612c49928d29bfb4b6b14c227b6fdcda7"
+          }
+        },
+        {
+          "client_id": "75561069182-k80ehb4sfaaaakgvh6jb6h32omr9bpl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIt5yI4e2Z-bf7I62oUVe4j4PbgqQF26w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75561069182-k80ehb4sfaaaakgvh6jb6h32omr9bpl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
